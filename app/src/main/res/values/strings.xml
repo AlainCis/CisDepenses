@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CisDepenses</string>
+    <string name="CisDepenses">CisDepenses</string>
+    <string name="version">1.0</string>
+    <string name="apropos">Cette application vous permet de journaliser vos prévisions des dépenses quotidiennes et vous envoi une notification
+        pour vous rappeler les dépenses du jour. Cette application n\'utilise pas vos donnés personnelles pour des fins commerciales ou autres,
+        toutes les donnés utilisées par l\'application sont stockées dans votre appareil et sont détruits lorsque vous désinstallez</string>
+    <string name="contacts">+243 977 597 284</string>
+    <string-array name="urgence_degree">
+        <item>Priorité</item>
+        <item>Urgent</item>
+        <item>Pas urgent</item>
+    </string-array>
+</resources>
